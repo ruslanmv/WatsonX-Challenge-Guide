@@ -1,6 +1,6 @@
-## IBMer watsonx Challenge
-
-Welcome to this  repository for the 2024 IBMer watsonx Challenge! 
+## IBM watsonx Challenge
+![](assets/2024-06-28-14-29-06.png)
+Welcome to my personal repository for the 2024 IBMer watsonx Challenge! 
 
 This repository is your ultimate guide to navigating the different tracks of the challenge and finding the resources you need to succeed.
 
@@ -18,14 +18,22 @@ This repository is your ultimate guide to navigating the different tracks of the
 
 
 
-Tutorials and Resources
+## Tutorials and Resources
+
 Track 1: [AskIBM Tutorial](./track1/README.md)
+
 Track 2: [IBM Consulting Advantage Tutorial](./track2/README.md)
+
 Track 3: [WCA@IBM Tutorial](./track3/README.md)
+
 Track 4: [watsonx.ai Tutorial](./track4/README.md)
+
 Track 5: [watsonx.ai and watsonx.data Tutorial](./track5/README.md)
+
 Track 6: [watsonx Orchestrate Tutorial](./track6/README.md)
+
 Track 7: [InstructLab Tutorial](./track7/README.md)
+
 General Challenge Resources: [2024 IBMer watsonx Challenge Website](./track8/README.md)
 
 I desire you the best of luck in the 2024 IBMer watsonx Challenge!
