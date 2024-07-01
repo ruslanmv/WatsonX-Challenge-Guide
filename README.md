@@ -100,9 +100,7 @@ try:
 except KeyError:
     project_id = input("Please enter your project_id (hit enter): ")
 
-# Print out the credentials to verify (for debugging purposes only, remove in production)
-print("Project ID:", project_id)
-print("API Key:", credentials["apikey"])
+
 ```
 
 ### How to Create and Use the `.env` File
