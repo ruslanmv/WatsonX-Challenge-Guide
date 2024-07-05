@@ -1,5 +1,5 @@
 ## IBM watsonx Challenge
-![](assets/2024-06-28-14-29-06.png)
+![](assets/animation.gif)
 Welcome to my personal repository for the 2024 IBMer watsonx Challenge! 
 
 This repository is your ultimate guide to navigating the different tracks of the challenge and finding the resources you need to succeed.
