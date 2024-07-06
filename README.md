@@ -87,7 +87,6 @@ These Experienced badges are designed for IBM Consulting roles to help you deliv
 More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-Learning-Paths-WatsonX/blob/master/Section5/README.md)
 
 The full Experienced curriculum and badges are found in [Future Skills+](https://ibm.biz/BdSM69)
-
 For Cognitive Classes that I suggest click [here](tutorials/cognitiveclass.md)
 
 
