@@ -1,0 +1,610 @@
+## Prompt Engineering with IBM Consulting Assistants
+
+**Unlocking the Power of IBM Consulting Advantage Strategy and Assistants**
+
+IBM Consulting Advantage Strategy is a comprehensive framework that helps organizations optimize their business processes and technology infrastructure to achieve their strategic goals. This powerful framework leverages IBM's extensive experience and expertise in consulting, technology, and business operations to help clients overcome complex business challenges and capitalize on new opportunities.
+
+IBM Consulting Assistants takes it to the next level by harnessing the power of generative AI to drive productivity across a range of tasks. This innovative tool provides an intuitive user interface, allowing IBM consultants to experiment with generative AI and optimize their work every day. However, users must acknowledge and understand the terms of use, including reviewing and validating outputs, checking for bias, and adding human intervention before sharing outputs with clients.
+
+**Get Started with IBM Consulting Assistants**
+==============================================
+
+### Get Access to IBM Consulting Assistants
+
+Before you begin, it's essential to get access to IBM Consulting Assistants and join a team. To do this, follow these steps:
+
+* Click on [this link](https://servicesessentials.ibm.com/) to access the IBM Consulting Assistants platform.
+* Join the "Assistants Education" team by clicking on the "Join Team" button.
+
+**Accepting a Team Invite**
+
+If you've received an invitation to join a team, follow these steps:
+
+* Click on the provided URL to join the team.
+* You will be prompted to join the team.
+* Once you've joined, refresh your workspace, and you should see the team called "Assistants Education" on the left-hand side.
+
+**Key Features of IBM Consulting Assistants**
+
+IBM Consulting Assistants provides a range of features that enable users to save prompts, check for biases, and check for sensitive information. Additionally, it allows users to explore a library of pre-built AI-powered assistants that can automate various business tasks and processes.
+
+Some of the key features of IBM Consulting Assistants include:
+
+* **Save Prompts**: Save previously asked questions for easy recall and reuse.
+* **Check for Biases**: Ensure that the assistant's responses do not contain any harmful or discriminatory content.
+* **Check for Sensitive Information**: Refrain from sharing personal data or confidential information without proper authorization.
+* **Explore Prompts and Assistants**: Browse and access a library of pre-built AI-powered assistants that can automate various business tasks and processes.
+
+**Practice Prompting in IBM Consulting Assistants**
+
+Now that you have access to IBM Consulting Assistants, it's time to try asking simple and easy prompts. Try using the following features:
+
+* **Check for Sensitive Info**: Check if the prompt you've entered contains any sensitive information.
+* **Check Bias**: Check if the output you get contains any biases.
+* **Copy Text**: Copy the text of your prompt or response.
+* **Save Prompt**: Save your prompt for easy recall and reuse.
+
+Some examples of prompts you can try include:
+
+* Help me plan a holiday.
+* Help me learn about my city.
+* Tell me more about IBM.
+* Who is Ada Lovelace?
+
+By completing these tasks, you'll learn how to do simple and easy prompting in IBM Consulting Assistants and how it responds. You'll also discover that IBM Consulting Assistants can respond to fun prompts to spark creative responses.
+
+**Explore Prompts and Assistants (Deep Dive)**
+
+The "Explore Prompts and Assistants" feature in IBM Consulting Assistants enables users to browse and access a library of pre-built AI-powered assistants that can automate various business tasks and processes. This feature allows users to find and reuse assistants and save prompts.
+
+To explore prompts and assistants, follow these steps:
+
+* Click on the "Explore Prompts and Assistants" tab.
+* Filter and find assistants that support your use cases.
+* Select an assistant and click on "View" to see the assistant's welcome message, expected outcome, and other information.
+* You can also edit assistants that are your own.
+
+By exploring prompts and assistants, you'll be able to find relevant assistants that can help you with your business tasks and processes.
+
+
+**Large Language Models (LLMs) and Their Limitations**
+=====================================================
+
+**What are Large Language Models (LLMs)?**
+-----------------------------------------
+
+Large Language Models (LLMs) are mathematical functions that take input and generate output based on statistical patterns learned from vast amounts of training data. They can be thought of as probabilistic, statistical algorithms that compress training data into a model. The model parameters, system prompt, and input (or context) influence the output generated by the LLM.
+
+**How do LLMs Work?**
+---------------------
+
+LLMs work by taking input (e.g., a question or action) and generating an output based on the model parameters, system prompt, and context. The model parameters control the output, such as the temperature (randomness or creativity) and maximum token limit (upper ceiling of response length). The system prompt guides the conversation, ensuring respectful and safe responses. The context, or conversational memory, influences the output based on previous interactions.
+
+**Limitations of LLMs**
+---------------------
+
+Despite their impressive capabilities, LLMs are not yet capable of true understanding or reasoning. They are limited to generating responses based on statistical patterns in the training data. This can lead to hallucinations (inaccurate or irrelevant responses) when the model lacks sufficient context or is not thoroughly prompted.
+
+**Practicing with IBM Consulting Assistants**
+--------------------------------------------
+
+To better understand how LLMs work, let's practice using IBM Consulting Assistants. We'll experiment with different model parameters, removing prompts or responses under 'Context Settings', and asking job-related questions.
+
+**Objective**
+------------
+
+Our objective is to learn how IBM Consulting Assistants respond to job-related prompts and help with tasks.
+
+**Practicum**
+------------
+
+Enter each prompt in the chat window and observe the responses:
+
+1. Help me write an email.
+2. Create a project plan on induction training.
+3. Write an email on request for a meeting.
+
+**Outcome**
+----------
+
+After completing this task, you should understand:
+
+* IBM Consulting Assistants can respond to job-related prompts and help with tasks.
+* You can experiment with different model parameters and context settings to refine the output.
+
+**Understanding Model Parameters, System Prompt, and Context**
+---------------------------------------------------------
+
+To generate accurate and relevant responses, it's essential to understand the advanced settings in IBM Consulting Assistants.
+
+**Model Parameters**
+-------------------
+
+* **Temperature**: Controls the randomness or creativity of the response.
+* **Max New Tokens**: Defines the maximum upper limit of the response length (in tokens, approximately 3/4 of a word).
+* **Min New Tokens**: Controls the minimum amount of generated text for every answer.
+
+**System Prompt**
+-----------------
+
+Guides the conversation, ensuring respectful and safe responses.
+
+**Context**
+----------
+
+The conversational memory, which influences the output based on previous interactions. You can delete or modify context settings to refine the output.
+
+**Available Models, Model Cards, and Selecting the Right Model**
+---------------------------------------------------------
+
+IBM Consulting Assistants provides various LLMs. To select the right model for the right task, visit [Choosing a foundation model in watsonx.ai](https://watsonx.ai/) and [Supported foundation models available with watsonx.ai](https://watsonx.ai/).
+
+By understanding how LLMs work and their limitations, you can effectively use IBM Consulting Assistants to aid in prompt engineering and improve your job-related tasks.
+
+
+**Basics of Prompt Engineering**
+=====================================
+
+**Mitigating LLMs' Limitations Through Prompt Engineering**
+--------------------------------------------------------
+
+Large Language Models (LLMs) have revolutionized natural language processing, but they also have limitations, such as biases, ethical concerns, and lack of common sense. Prompt engineering techniques can help mitigate these limitations by guiding the models to generate more appropriate and accurate responses.
+
+**Understanding Prompting Techniques**
+------------------------------------
+
+Prompting techniques are methods used to guide LLMs toward generating more accurate and relevant responses. There are three popular prompting techniques:
+
+### Zero-Shot Prompting
+
+Zero-shot prompting involves providing a prompt that is not part of the training data to the model, but the model can generate a result that you want. This promising technique makes large language models useful for many tasks.
+
+### One-Shot Prompting
+
+One-shot prompting takes the concept of zero-shot a step further. Instead of asking the model to perform a task where it has not been trained at all, you provide a single example of the task you want it to perform. The model then uses this single example to generate text.
+
+### Few-Shot Prompting
+
+Few-shot prompting is a technique in which few examples are provided that a model can use to inform its answer. For example, a few-shots technique can be used in a classification task.
+
+**Practicing Different Types of Prompting in IBM Consulting Assistants**
+-------------------------------------------------------------------
+
+Now that you have understood what are zero-shot, one-shot, and few-shot prompting techniques, let's try practicing them.
+
+**Objective**
+
+Learn how IBM Consulting Assistants responds to zero-shot, one-shot, and few-shot prompts.
+
+**Practicum**
+
+Enter each prompt in the chat window and see what responses you get.
+
+* Zero-shot: Create a test script.
+* One-Shot: Rewrite this email to be more empathetic.
+* Few-Shot: Can you identify the contract differences?
+
+**Outcome**
+
+Now, after completing this task, you have learned:
+
+* How IBM Consulting Assistants responds to zero-shot, one-shot, and few-shot prompts.
+* You can try more such prompts in IBM Consulting Assistants.
+
+**Chain of Thought Prompting**
+------------------------------
+
+Chain of thought prompting is a technique that involves guiding an LLM to generate a sequence of responses that are connected to each other in a logical and coherent way. This prompting technique allows complex reasoning through intermediate steps and can be combined with few-shot prompting for better results.
+
+**Practicing Chain of Thought Prompting in IBM Consulting Assistants**
+-------------------------------------------------------------------
+
+Let's try some hands-on tasks to understand chain of thought technique in a better way.
+
+**Objective**
+
+Learn how IBM Consulting Assistants responds to chain of thought prompts.
+
+**Practicum**
+
+Enter each prompt in the chat window and see what responses you get.
+
+* Translate the call transcript to Spanish.
+* Who were the participants in the call?
+* Summarize the call transcript.
+
+**Outcome**
+
+Now, after completing this task, you have learned:
+
+* How IBM Consulting Assistants responds to chain of thought prompts.
+* You can try more such prompts in IBM Consulting Assistants.
+
+You can find more sample prompts in the IBM Consulting Assistants Library and can find more examples in Sample foundation model prompts for common tasks.
+
+
+
+**IBM Consulting Assistants: Advanced Features**
+=====================================================
+
+**Save and Share Prompts**
+-------------------------
+
+In IBM Consulting Assistants, prompts can be saved and reused for future conversations to efficiently maintain consistency and quality in their interactions with clients. Additionally, prompts can be shared across teams and departments, facilitating collaboration and knowledge-sharing among consultants.
+
+To save and share prompts, follow these steps:
+
+1. Go to the Explore Prompts and Assistants lab and select the content within your team's library, personal library, or shared with the entire IBM community.
+2. Filter prompts by tags or search for a specific prompt.
+3. Create and save your own prompt by clicking on Chat, selecting a model, and typing away.
+4. Write a prompt, for example, "Create a user persona to support a new application that leverages GenAI for education."
+5. Save the prompt with a meaningful name, detailed description, and tags.
+6. Choose where you want to save the prompt: in your library, team's library, or make it available to the IBM community.
+7. Make use of the prompt by clicking on Add Prompt, selecting your prompts, and customizing it for reuse.
+
+**Create Assistants**
+--------------------
+
+The 'Create Assistants' feature in IBM Consulting Assistants enables you to build and deploy custom AI assistants that can help automate repetitive tasks and provide insights to support decision-making. This feature allows you to create assistants that can understand and respond to natural language, perform tasks, and provide recommendations, making it easier for you to focus on higher-value work.
+
+To create an assistant, follow these steps:
+
+1. Launch Consulting Assistants and go to Chat.
+2. Select a model, such as Llama2 70B Chat.
+3. Think of an assistant as a specialized prompt with enough information and context to be useful.
+4. Define the assistant's settings, such as waiting for user input and generating a specific output.
+5. Build an assistant to help write high-quality user stories in a specific format.
+6. Provide a prompt, such as "You are an assistant that helps users and scrum masters write better user stories. For any provided input, you will generate epics, user stories with acceptance criteria and a break of tasks."
+7. Test the assistant and refine its settings until you get the desired output.
+8. Save the assistant with a descriptive name, detailed description, welcome message, expected outcome, and tags.
+9. Test the assistant with some data and make it available publicly or share it with your team.
+
+**Best Practices for Building Assistants**
+-----------------------------------------
+
+* Tag and name assistants specific to a practice or technology.
+* Provide high-quality examples of expected input and output.
+* Use multi-shot prompting techniques to prepare three or four high-quality examples.
+* Test and refine the assistant until you get the desired output.
+* Share the assistant with your team or publicly, providing a descriptive name, detailed description, welcome message, expected outcome, and tags.
+
+By following these steps and best practices, you can create powerful assistants that help you automate tasks, provide insights, and focus on higher-value work.
+
+**Search IBM Consulting Public Data**
+-----------------------------------
+
+In this section, we will explore how to search the publicly available data sets of IBM Consulting data that are available through IBM Consulting Assistants.
+
+**Accessing Publicly Available Data Sets**
+
+To access publicly available data sets, follow these steps:
+
+1. Click on Chat and select IBM Consulting Sidekick Data from the menu.
+2. You will see a list of data sets available for search, including IBV, assets, deal, archetypes, offering information from Content+, L&K material, information from seismic in the form of the Turbonomic product data set, the RFP proposal, RFPs, questions and answers, and information from the Lighthouse Garage.
+
+**Customizing Search Settings**
+
+You can customize your search settings by defining how many chunks or pieces of a document you want to retrieve as part of your answer generation. You can also define the certainty or how certain you want the retrieval process to be when searching through these collections of documents.
+
+**Searching for Information**
+
+To search for information, simply ask a question, such as "What is IBM Turbonomic and what is the key value proposition for Turbonomic?" The system will generate an answer based on the data found in the collections.
+
+**Understanding the Search Process**
+
+The search process involves two steps:
+
+1. Retrieval: The system searches for information related to your question in the available collections and retrieves one or more documents or sentences from these documents.
+2. Answer Generation: The system sends the retrieved information to WatsonX and asks it to answer the question based on the available data.
+
+**Tips for Getting Accurate Answers**
+
+To get accurate answers, make sure to:
+
+* Check that your question has relevant documents and paragraphs found in the collections you're searching.
+* Ensure that you're searching in the right collections.
+* Tweak your question to focus on how the answer is generated by WatsonX if the answer looks incorrect.
+* Check that the data set looks relevant, and if not, consider loading your own data set.
+
+By following these steps and tips, you can effectively search IBM Consulting public data and get accurate answers to your questions.
+
+
+**Chat With Your Own Document Collections**
+-----------------------------------------
+
+In this section, we will explore how to bring your own data to IBM Consulting Assistants and have a conversation with your own documents using the feature called Chat With Your Documents.
+
+**Creating a Document Collection**
+--------------------------------
+
+To create a document collection, follow these steps:
+
+1. Go to Chat With Documents and click on Create a New Collection.
+2. Name your collection, such as IBM Form 10K or RFP.
+3. Select the recommended role, otherwise, you won't be able to upload any documents.
+4. Click Add File and then click on Upload Documents.
+5. Wait for the collection to be processed, and then you can continue with Start a Chat.
+
+**Understanding the Chat Process**
+---------------------------------
+
+The chat process involves two steps:
+
+1. **Retrieval**: The system searches all of the documents in your collection for meaningful semantic words that can be found in your question. It extracts a number of relevant paragraphs with their associated page numbers and compiles them into a new prompt.
+2. **Generation**: The system sends the new prompt to WatsonX with a new question, asking it to answer the question based on the relevant paragraphs extracted from the document.
+
+**Tips for Writing Meaningful Questions**
+-----------------------------------------
+
+To get accurate answers, make sure to:
+
+* Verify the accuracy of both the retrieval step and the generation step.
+* Adjust your search phrase if the retrieval step is not finding the right paragraphs or documents.
+* Check that the generation is correct and semantically relevant.
+
+By following these steps and tips, you can effectively chat with your own document collections and get accurate answers to your questions.
+
+**Benefits of Chat With Your Own Document Collections**
+--------------------------------------------------
+
+This feature allows you to:
+
+* Bring your own data to IBM Consulting Assistants
+* Have a conversation with your own documents
+* Get accurate answers to your questions based on the content of your documents
+* Verify the accuracy of both the retrieval and generation steps
+
+By leveraging this feature, you can unlock the power of your own documents and get valuable insights and answers to your questions.
+
+**Unified Chat: Revolutionizing Conversational AI**
+=====================================================
+
+The IBM Consulting Assistants' Unified Chat feature is a game-changer in the world of conversational AI. This innovative feature enables you to transfer context between one or more models, one or more assistants, or even chat with documents, providing a single, integrated chat interface for all your conversations.
+
+**The Power of Context Transfer**
+-------------------------------
+
+In this tutorial, we'll explore how Unified Chat allows you to transfer context from a business analyst persona to a code assistant, and then to a test assistant, generating user stories and epics for a particular requirement. We'll also demonstrate how to transfer that context to code generation, continuing to turn those stories into a code template, and finally, generating test cases for that code.
+
+**Getting Started with Unified Chat**
+-------------------------------------
+
+To get started with Unified Chat, follow these simple steps:
+
+1. Go to the left-hand bar and select Unified Chat.
+2. Start prompting by clicking on the fast settings icon to tweak the context if needed.
+3. On the left, you'll see the ability to either switch to a different model or select an assistant.
+
+**Using Unified Chat with Assistants**
+------------------------------------
+
+Let's start a conversation by inserting an assistant. You can search for assistants using keywords like "unified" and select the one that suits your needs. In this example, we'll use Unified 01, an epic and user story creator.
+
+1. Click the plus sign to insert the assistant into your Unified Chat conversation.
+2. Provide a requirement, such as building an application to help patients book appointments with doctors.
+3. The assistant will generate epics, user stories, and acceptance criteria scenarios for the respective requirement.
+
+**Chaining Assistants Together**
+-------------------------------
+
+The real power of Unified Chat lies in its ability to chain multiple assistants together, transferring context seamlessly between them. Let's demonstrate this by using another assistant, Unified 02, which is a story-to-Python code generator.
+
+1. Insert the assistant into the conversation, and it will inherit the context from the previous assistant.
+2. Ask the assistant to generate code for the requirements above.
+3. The assistant will generate a Python code starter template for the scheduling application.
+
+**Generating Test Cases**
+-------------------------
+
+Next, we'll use another assistant, Unified 03, to generate test cases for the code.
+
+1. Insert the assistant into the conversation, and it will inherit the context from the previous assistant.
+2. Ask the assistant to generate test cases for the code above.
+3. The assistant will generate code for the respective functions and classes that are generated by the previous assistant.
+
+**Switching Models and Continuing the Conversation**
+---------------------------------------------------
+
+One of the most impressive features of Unified Chat is its ability to switch models and continue the conversation seamlessly. Let's demonstrate this by switching to Starcoder or Llama or Granite and asking the assistant to describe what the code above does.
+
+1. Select "switch to model" and choose a model from the list.
+2. Ask the assistant to describe what the code above does.
+3. The assistant will generate a markdown-formatted README file ready for use as part of your application development process.
+
+**Conclusion**
+----------
+
+Unified Chat is a revolutionary feature that enables you to have a single, integrated chat interface for all your conversations. By chaining multiple assistants together and transferring context seamlessly, you can generate user stories, epics, code, and test cases in a matter of minutes. The possibilities are endless, and we can't wait to see what you'll build with Unified Chat.
+
+**Creative Ways of Using IBM Consulting Assistants: Generating Diagrams as Code**
+============================================================
+
+IBM Consulting Assistants offer a unique feature that allows developers to generate diagrams as code, enabling them to create and share visual representations of their applications and systems. This feature can significantly improve collaboration among teams and enhance the overall quality of software.
+
+**Step 1: Understanding the Concept**
+-----------------------------------
+
+To generate diagrams as code, it's essential to understand that many diagram software use formats like XML or proprietary formats to define diagrams. IBM Consulting Assistants can leverage large language models to generate these diagrams.
+
+**Step 2: Choosing a Diagram Format**
+-------------------------------------
+
+There are various diagram formats available, such as Mermaid.js, PlantUML, and graph-based formats. In this example, we'll use Mermaid.js, a JavaScript-based diagramming tool, to generate a Tree of Thought concept.
+
+**Step 3: Generating the Diagram Code**
+----------------------------------------
+
+Once you've chosen a format, you can generate the diagram code using IBM Consulting Assistants. For instance, you can paste the Mermaid.js code into a Mermaid-like editor or run the JavaScript library locally to generate the diagram.
+
+**Step 4: Rendering the Diagram Code**
+-----------------------------------------
+
+After generating the diagram code, you can render it to create a visual representation of your application or system. This can be done by running the code in a compatible editor or environment.
+
+**Step 5: Experimenting with Other Formats**
+---------------------------------------------
+
+Feel free to experiment with other formats, such as UML, to generate different types of diagrams. For example, you can generate a class diagram using UML and render it to create a visual representation of your application's architecture.
+
+**Benefits for Developers**
+---------------------------
+
+As a developer, you can use IBM Consulting Assistants to generate diagrams as code, which can be particularly useful when:
+
+* You need to represent data in a visual format, such as graphs or dashboards.
+* You're writing JavaScript or Python code and require a way to visualize data.
+* You want to improve collaboration among teams by creating and sharing visual representations of your applications and systems.
+
+By following these steps and experimenting with different formats, you can unlock the full potential of IBM Consulting Assistants and take your software development to the next level.
+
+**Manage Teams in IBM Consulting Assistants**
+==============================================
+
+IBM Consulting Assistants provides a platform for creating and joining teams, allowing consultants to collaborate and share knowledge and expertise to deliver high-quality services to clients. By joining a team, consultants can expand their professional network, gain access to valuable resources and tools, and enhance their skills and expertise through collaboration and knowledge-sharing with colleagues.
+
+### Create or Join a Team
+
+To create or join a team, follow these steps:
+
+1. Go to [serviceessentials.ibm.com/launchpad](http://serviceessentials.ibm.com/launchpad) and click on "Create or Join team".
+2. You have the option to either join an existing team by searching for a team name, receive an invite or link, or create a new team.
+3. To create a new team, enter the team name, organization name, and select the project type. You can also make the team private so it won't show up in search results.
+4. Click "Create" to create the team.
+5. After refreshing the page, you'll be able to see the team you've just created on the left-hand sidebar.
+6. You can add items from the catalog, including the IBM Consulting Assistants application, to your team.
+7. Click "Add" and then "Start" to select the reason for adding it, and then click "Create".
+8. You can now access your team and customize it under settings.
+9. You can also add members to your team, make yourself an editor or add other users as owner or administrator.
+10. You can always access your team by clicking on IBM Consulting Assistants.
+
+### Manage Team Users
+
+To manage team users, follow these steps:
+
+1. Click on the team you want to manage and select "Members".
+2. You can either add new members or invite others to join the team.
+3. Click "Invite Members" and select the member you'd like to add.
+4. You can also invite members by email or generate a link to share with others.
+5. You can see member requests and approve submissions if your team is public.
+6. Under "Members", you can also give special privileges to specific members, such as making them an owner.
+7. You can change a member's permissions to owner, allowing them to add other members to the team.
+
+### Close Your Team
+
+To close a team, follow these steps:
+
+1. Select the team you want to delete and go to "Settings".
+2. Scroll down to the end and click on the option to "Close team".
+3. Click "Yes" to confirm that you want to close the team.
+4. Your team will be closed within 48 hours, and all team members will be notified.
+
+By following these steps, you can effectively manage teams in IBM Consulting Assistants and collaborate with colleagues to deliver high-quality services to clients.
+
+**Customize the Interface of IBM Consulting Assistants**
+======================================================
+
+In this section, we will explore how to customize the IBM Consulting Assistants interface to create a personalized and seamless user experience for your clients. With customization options such as adding custom logos, hero images, and custom links, you can tailor the interface to fit your clients' branding and needs.
+
+**Step 1: Accessing the Customization Options**
+---------------------------------------------
+
+To start customizing your IBM Consulting Assistants interface, navigate to the team you want to customize and click on **Members**. Then, click on **Manage** to access the customization options. Make sure you have the **Editor** role to enable customization.
+
+**Step 2: Uploading a Custom Logo and Hero Image**
+---------------------------------------------------
+
+To upload a custom logo and hero image, click on **Settings** and then select **Edit**. From here, you can drag and drop your desired logo and hero image files. For example, you can upload the IBM logo and a hero image that represents your client's brand.
+
+**Step 3: Saving Your Changes**
+-------------------------------
+
+Once you have uploaded your custom logo and hero image, click on **Save** to apply the changes. You will now see the new logo and hero image on your IBM Consulting Assistants interface.
+
+**Step 4: Customizing the Main Page Settings**
+---------------------------------------------
+
+To further customize your interface, navigate to **Catalog** and click on the team you want to customize. Then, click on **Settings**, followed by **Team Settings**, and finally **Main Page Settings**. From here, you can add custom links and content to your interface.
+
+**Step 5: Adding Custom Links and Content**
+--------------------------------------------
+
+To add custom links and content, click on **Add Hero Content** and enter a description for your link. For example, you can add a link to your client's website with a description such as "AI Infused Sidekicks". You can also upload a custom image to represent the link.
+
+**Step 6: Saving Your Changes and Viewing the Results**
+---------------------------------------------------------
+
+Once you have added your custom links and content, click on **Save** to apply the changes. To view the results, navigate to the **Welcome** page and refresh the interface. You will now see the new splash image, logo, and custom links.
+
+By following these steps, you can easily customize the IBM Consulting Assistants interface to create a personalized and seamless user experience for your clients. This feature is especially useful when creating client demos, allowing you to showcase their branding and create a professional-looking interface.
+
+
+**Development Plug-ins**
+======================
+
+**Install IBM Consulting Assistants Extensions for Visual Studio Code and Other IDEs**
+-----------------------------------------------------------------------------------
+
+In this section, we will guide you through the process of installing IBM Consulting Assistants extensions for popular Integrated Development Environments (IDEs) such as Visual Studio Code, IntelliJ, Eclipse, Android Studio, and XCode. Please note that this topic is more applicable for developers and other technical roles.
+
+### Step 1: Download the Extension File
+
+To begin, you need to download the extension file for your preferred IDE. You can find a list of available extensions on the #help-sidekickai Slack channel. Click on the URL and follow the instructions to download the extension file.
+
+### Step 2: Install the Extension in Visual Studio Code
+
+Once you have downloaded the extension file, open Visual Studio Code and follow these steps:
+
+* Go to **View** > **Extensions**.
+* Click on the three dots at the top and select **Install from VSIX file**.
+* Select the downloaded VSIX file and click on **Install**.
+* Wait for the extension to install, then click on **Reload Now** to enable it.
+
+### Step 3: Configure the Extension
+
+After installing the extension, you need to configure it by providing your email ID and API key. Here's how:
+
+* Click on **Manage Settings** and search for **IBM**.
+* You will be presented with the extension configuration page.
+* Enter your email ID and API key in the required fields.
+
+### Step 4: Generate an API Key
+
+To generate an API key, follow these steps:
+
+* Go to IBM Consulting Assistants and navigate to **Settings** in one of your teams.
+* Click on **Generate API Key**.
+* Copy the generated API key and paste it into the extension configuration page in Visual Studio Code.
+
+### Step 5: Test the Extension
+
+After configuring the extension, you can test it by following these steps:
+
+* Click on **IBM Essentials** in the UI.
+* Click on **Refresh**.
+* Select a model, such as Llama2 70B Chat, and choose which assistants you want to use for code generation.
+* Create a new file, such as `sum.py`, and write a Python function to add two numbers together.
+* Right-click on the code and select **IBM Essential Sidekick AI**.
+* Choose an option, such as **Execute Prompt** or **Generate Unit Test Cases**, to test the extension.
+
+That's it! You have successfully installed and configured the IBM Consulting Assistants extension for Visual Studio Code. 
+
+
+
+### Closing Remarks and Call to Action
+
+Congratulations on successfully completing the Prompt Engineering with IBM Consulting Assistants course! This course has equipped you with the knowledge and skills to harness the power of generative AI and large language models.
+
+
+### Key Takeaways from the Course
+
+* IBM Consulting Assistants is a platform developed by IBM Consulting to empower consultants to maximize the potential of generative AI across various tasks, including development, design, project management, and customer operations.
+* The platform enables collaboration and knowledge sharing among consultants, allowing them to deliver high-quality services to clients.
+* Effective prompting techniques, such as Zero-Shot, One-Shot, Few-Shot, and Chain of Thought prompting, can guide Large Language Models (LLMs) to generate more accurate and relevant responses.
+* IBM Consulting Assistants provides features like saving and sharing prompts, creating assistants, searching public data, chatting with documents, and accessing unified chat.
+* The interface can be customized to build stunning client demos, showcasing their branding and creating a seamless user experience.
+
+
+
+### Final Thoughts
+
+In conclusion, this course has equipped you with the knowledge and skills to harness the power of generative AI and large language models. Remember to think creatively about how you can utilize these tools to improve your work and create value for your clients. Congratulations again on completing the course, and we look forward to seeing the innovative ways you'll apply your new skills!
