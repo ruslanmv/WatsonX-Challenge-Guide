@@ -17,110 +17,60 @@ This repository is your ultimate guide to navigating the different tracks of the
 | 7            | Modify existing or add new knowledge and skills to improve the accuracy of answers provided by Granite                                                                       | Suggest a use case for embedding Granite and use InstructLab to improve the model. Requires developer experience and specific hardware.                                                                                                                                                                                                                                | InstructLab                                                                                                                    | [Link to InstructLab Tutorial](./track7/README.md)                                                                         |
 
 
-
-## Tutorials and Resources
-
-Track 1: [AskIBM Tutorial](./track1/README.md)
-
-Track 2: [IBM Consulting Advantage Tutorial](./track2/README.md)
-
-Track 3: [WCA@IBM Tutorial](./track3/README.md)
-
-Track 4: [watsonx.ai Tutorial](./track4/README.md)
-
-Track 5: [watsonx.ai and watsonx.data Tutorial](./track5/README.md)
-
-Track 6: [watsonx Orchestrate Tutorial](./track6/README.md)
-
-Track 7: [InstructLab Tutorial](./track7/README.md)
-
-General Challenge Resources: [2024 IBMer watsonx Challenge Website](./track8/README.md)
-
-In the most of the python codes needed for this challenge you need a project id and api key.
-
-### How to Retrieve `PROJECT_ID` and `API_KEY` in IBM Cloud for WatsonX Challenge
-
-#### 1. Create an IBM Cloud Account
-First, ensure you have an IBM Cloud account. If not, sign up at [IBM Cloud](https://cloud.ibm.com/).
-
-#### 2. Create a Watsonx.ai Project
-1. **Log in to IBM Cloud**: Go to [IBM Cloud Dashboard](https://cloud.ibm.com/).
-2. **Navigate to Watsonx.ai**: In the IBM Cloud dashboard, use the search bar to search for "Watsonx.ai" and select it.
-3. **Create a Project**:
-   - Click on `Create Project`.
-   - Choose a project name and configure any necessary settings.
-   - After creation, the project will appear in your list of projects.
-
-#### 3. Retrieve the `PROJECT_ID`
-1. **Open the Project**: Click on the name of your project from the list.
-2. **Go to the Manage Tab**: Navigate to `Manage -> General`.
-3. **Find the Project ID**: Under the `Details` section, you will find the `Project ID`. Copy this value for later use.
-
-#### 4. Create an API Key
-1. **Navigate to IAM (Identity and Access Management)**: In the IBM Cloud dashboard, go to `Manage -> Access (IAM)`.
-2. **Create an API Key**:
-   - Click on `API keys` on the left-hand side.
-   - Click on `Create an IBM Cloud API key`.
-   - Provide a name and description for the API key.
-   - Click `Create`.
-   - Once created, make sure to copy the API key as you won't be able to see it again.
-
-### Setting Up the Environment
-
-#### 5. Create a `.env` File
-Create a `.env` file in your project directory to store the `PROJECT_ID` and `API_KEY`. This file should look like this:
-
-```
-PROJECT_ID=your_project_id_here
-API_KEY=your_api_key_here
-```
-
-Replace `your_project_id_here` and `your_api_key_here` with the actual values you retrieved earlier.
-
-#### 6. Loading Credentials in Python
-Use the following Python snippet to load these credentials from the `.env` file.
-
-```python
-import os
-from dotenv import load_dotenv
-
-# Load environment variables from the .env file
-load_dotenv()
-
-# Retrieve project ID and API key from environment variables
-project_id = os.getenv("PROJECT_ID", None)
-credentials = {
-    "url": "https://us-south.ml.cloud.ibm.com",
-    "apikey": os.getenv("API_KEY", None)
-}
-
-# Ensure project_id is obtained
-try:
-    project_id = os.environ["PROJECT_ID"]
-except KeyError:
-    project_id = input("Please enter your project_id (hit enter): ")
+## Essential Tutorials
 
 
-```
 
-### How to Create and Use the `.env` File
+How to Retrieve `PROJECT_ID` and `API_KEY` in IBM Cloud for WatsonX Challenge [more info](tutorials/How-to-get-API-KEY.md)
 
-1. **Create the `.env` File**: In your project directory, create a file named `.env`.
-2. **Add Credentials to the `.env` File**:
-   ```
-   PROJECT_ID=your_project_id_here
-   API_KEY=your_api_key_here
-   ```
-   Replace `your_project_id_here` and `your_api_key_here` with the actual values.
 
-3. **Ensure `python-dotenv` Library is Installed**: Install the `python-dotenv` package if you haven't already.
-   ```bash
-   pip install python-dotenv
-   ```
+## Learning Plan 2024 IBMer watsonx Challenge Education for IBM Consulting
 
-4. **Load the `.env` File in Your Python Script**: Use the provided Python snippet to load the credentials.
 
-By following these steps, you will be able to securely store and load your IBM Cloud credentials for use with the Watsonx API.
+There are some courses that I highly suggest to take before start the Challenge.
+
+
+[![](assets/2024-07-06-10-32-38.png)](https://yourlearning.ibm.com/activity/PLAN-392A3DE753AC)
+
+
+## Prompt Engineering with IBM Consulting Assistants
+
+The course covers everything from the basics of accessing IBM Consulting Assistants to advanced features and creative ways to use them. IBM Consulting practitioners will learn about IBM Consulting Advantage Strategy, how foundation models and large language models work, basics of prompt engineering and how it mitigates LLM’s limitations. It also helps practitioners learn managing teams and customizing the interface for clients.
+
+More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-Learning-Paths-WatsonX/blob/master/Section1/README.md)
+
+### IBM Consulting Assistants Sales Enablement
+
+This course enables IBM consultants and sales executives to effectively use the IBM Consulting Assistants and integrate Assistants into their deals. You will learn how to use the platform to transform business operations, augment your daily tasks, and drive productivity across various roles within IBM. The course covers key features of the platform including interaction with large language models, document analysis, and integrating external data sources.
+
+More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-Learning-Paths-WatsonX/blob/master/Section2/README.md)
+### IBM's AI assistants - IBM watsonx Orchestrate, watsonx Assistant, and watsonx Code Assistant
+
+This course covers IBM's set of AI assistant solutions, which leverage generative AI to empower individuals to achieve higher performance and success. You will learn how to convey to clients the business value of IBM's AI assistants - IBM watsonx Orchestrate, watsonx Assistant, and watsonx Code Assistant. 
+
+More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-Learning-Paths-WatsonX/blob/master/Section3/README.md)
+
+
+### Generative AI and watsonx for IBM Consulting
+
+Generative AI and watsonx for IBM Consulting
+
+This course will help build your foundational knowledge of Generative AI and watsonx. It's the first step of a longer learning path that will unfold over the next several months. Our understanding of Generative AI varies widely across IBM Consulting. It’s incredibly important that we master this content—and it’s also incredibly important that we spend time helping our clients do the same.
+
+More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-Learning-Paths-WatsonX/blob/master/Section4/README.md)
+
+
+### Generative AI and watsonx Experienced Course
+
+This section include the core required learning from IBM Consulting's Experienced Level Generative AI curriculum.  This course must be completed within any of the plans in that Experienced-level curriculum.  Completing it here will grant you credit within the role-based learning plan of your choice and get you started toward achievement of the Experience-level badges.
+
+These Experienced badges are designed for IBM Consulting roles to help you deliver generative AI solutions with watsonx, your choice of Strategic Partner technologies, or both. Each plan is tailored to the specific needs of a role, building up from the core generative AI education to the specialized training, watsonx, and Strategic Partner technologies required to perform that role.
+
+More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-Learning-Paths-WatsonX/blob/master/Section5/README.md)
+
+The full Experienced curriculum and badges are found in [Future Skills+](https://ibm.biz/BdSM69)
+
+
 
 
 
