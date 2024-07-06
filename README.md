@@ -23,6 +23,24 @@ This repository is your ultimate guide to navigating the different tracks of the
 
 How to Retrieve `PROJECT_ID` and `API_KEY` in IBM Cloud for WatsonX Challenge [more info](tutorials/How-to-get-API-KEY.md)
 
+| Course Name | Description | Link |
+| --- | --- | --- |
+| How to use Generative AI with IBM WatsonX | Learn how to leverage IBM WatsonX, an enterprise-ready AI solution, to unlock the potential of generative AI in your organization. | [link](https://ruslanmv.com/blog/How-to-use-Generative-AI-with-WatsonX) |
+| How to connect WatsonX with Watson Assistant | Discover how to integrate WatsonX with Watson Assistant to create a powerful chatbot that can understand and respond to user queries. | [link](https://ruslanmv.com/blog/How-to-connect-WatsonX-with-Watson-Assistant) |
+| Watsonx Assistant with Milvus as Vector Database | Explore how to build a WatsonX Assistant with Milvus as a vector database, enabling efficient and scalable AI-powered search and retrieval capabilities. | [link](https://ruslanmv.com/blog/WatsonX-Assistant-with-Milvus-as-Vector-Database) |
+| How to use Retrieval Augmented Generation with WatsonX | Learn how to use Retrieval Augmented Generation with WatsonX to ask questions and retrieve relevant information from a custom dataset. | [link](https://ruslanmv.com/blog/How-to-use-Retrieval-Augmented-Generation-with-WatsonX) |
+| How to create a CodeBot with Watsonx in Django | Find out how to build a CodeBot with WatsonX in Django, a powerful tool for automating code generation and debugging. | [link](https://ruslanmv.com/blog/How-to-Generate-a-Code-with-WatsonX-with-Django) |
+| How to Connect Watson Assistant with WatsonX and Watson Discovery | Learn how to integrate Watson Assistant with WatsonX and Watson Discovery to create a comprehensive AI-powered solution for natural language processing and information retrieval. | [link](https://ruslanmv.com/blog/How-to-connect-Watson-Assistant-to-WatsonX-and-Watson-Discovery) |
+| Auto Error Debugger Assistant with WatsonX | Discover how to use the Auto Error Debugger Assistant with WatsonX to debug and optimize code efficiently, reducing errors and improving development productivity. | [link](https://ruslanmv.com/blog/Auto-Error-Debugger-Assistant-with-WatsonX) |
+| How to create an Application with Code Engine and WatsonX - Exam Solutions with AI | Explore how to leverage Code Engine and WatsonX to create AI-powered applications for exam solutions, revolutionizing the way we approach education and assessment. | [link](https://ruslanmv.com/blog/How-to-create-an-Application-with-Code-Engine-and-WatsonX) |
+| Watsonx Governance for Efficient Traditional Predictive Models | Learn how to use WatsonX governance to optimize traditional predictive models, ensuring efficient and effective decision-making in organizations. | [link](https://ruslanmv.com/blog/Watsonx-Governance-for-Predictive-Modeling) |
+| How to connect WatsonX with a Vector Databases PostgreSQL Pgvector in LangChain to answer questions (RAG) | Discover how to connect WatsonX with a vector database using PostgreSQL and Pgvector in LangChain, enabling efficient question-answering capabilities. | [link](https://ruslanmv.com/blog/WatsonX-with-Langchain-PostgreSQL-with-pgvector) |
+| ArXiv Research with Artificial Intelligence using IBM WatsonX.ai | Learn how to use IBM WatsonX.ai to search and analyze research papers on ArXiv, unlocking new insights and opportunities in scientific research. | [link](https://ruslanmv.com/blog/ArXiv-Research-with-Artificial-Intelligence) |
+| How to run WatsonX.ai with LangChain | Explore how to run WatsonX.ai with LangChain, enabling efficient and scalable natural language processing and question-answering capabilities. | [link](https://ruslanmv.com/blog/WatsonX-with-LangChain) |
+| Speech to text with IBM Watson | Discover how to use IBM Watson to build a speech-to-text application, enabling efficient and accurate transcription of audio and video content. | [link](https://ruslanmv.com/blog/Speech-to-Text-IBM-Watson) |
+| How to integrate Watson Assistant with IBM Cloud Function | Learn how to integrate Watson Assistant with IBM Cloud Function, enabling seamless deployment and management of AI-powered chatbots and applications. | [link](https://ruslanmv.com/blog/How-to-integrate-Watson-Assistant-with-IBM-Cloud-Function) |
+
+
 
 ## Learning Plan 2024 IBMer watsonx Challenge Education for IBM Consulting
 
@@ -70,7 +88,7 @@ More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-L
 
 The full Experienced curriculum and badges are found in [Future Skills+](https://ibm.biz/BdSM69)
 
-
+For Cognitive Classes that I suggest click [here](tutorials/cognitiveclass.md)
 
 
 
