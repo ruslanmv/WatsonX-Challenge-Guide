@@ -89,6 +89,26 @@ More information [here](https://github.ibm.com/ruslan-idelfonso-magana-cic/IBM-L
 The full Experienced curriculum and badges are found in [Future Skills+](https://ibm.biz/BdSM69)
 For Cognitive Classes that I suggest click [here](tutorials/cognitiveclass.md)
 
+### IBM WatsonX References:
 
+| Reference | Description | Link |
+| --- | --- | --- |
+| WatsonX.ai | Learn about IBM WatsonX.ai, an enterprise-ready AI solution | [link](https://yourlearning.ibm.com/credential/CREDLY-ea0c61a2-a14b-4ac1-8f40-23f071943c48) |
+| IBM Learning (Good to complete) | Complete IBM Learning activities for WatsonX.ai | [link](https://yourlearning.ibm.com/activity/PLAN-CAD5C0AAA6DC) |
+| IBM Futureskills | Self-learning resources for WatsonX.ai | [link](https://w3.ibm.com/services/gbslearn/futureskills/index.html) |
+| Python Basics | Learn Python basics for WatsonX.ai | [link](https://ibm-learning.udemy.com/course/python-for-absolute-beginners-u/) |
+| GitHub (WatsonX.ai Labs) | Access WatsonX.ai labs on GitHub | [link](https://github.ibm.com/watsonx-ee-squad/ibmc-enablement-labs/tree/main/labs/watsonx.ai) |
+| TechZone Reservations | Reserve TechZone resources for WatsonX.ai | [link](https://techzone.ibm.com/my/reservations/create/64e66590855bcf0017183688) |
+| WatsonX.gov | Learn about WatsonX.gov, a governance bootcamp | [link](https://yourlearning.ibm.com/activity/IEC-10375418) |
+| GitHub (WatsonX.gov Governance Bootcamp) | Access WatsonX.gov governance bootcamp on GitHub | [link](https://github.ibm.com/strategic-partnership/watsonx.governance-bootcamp) |
+| TechZone Reservations | Reserve TechZone resources for WatsonX.gov | [link](https://techzone.ibm.com/my/reservations/create/64b8490a564e190017b8f4eb) |
+| WatsonX.data | Learn about WatsonX.data, a data solution | [link](https://github.ibm.com/watsonx-ee-squad/workshop-watsonx-data) |
+| IBM Learning (Recommended) | Complete IBM Learning activities for WatsonX.data | [link](https://yourlearning.ibm.com/credential/CREDLY-ea0c61a2-a14b-4ac1-8f40-23f071943c48) |
+| Hands on Labs | Complete hands-on labs for WatsonX.data | [link](https://github.ibm.com/watsonx-ee-squad/workshop-watsonx-data) |
+| Techzone Environment Setup | Set up Techzone environment for WatsonX.data | [link](https://github.'ibm.com/watsonx-ee-squad/workshop-watsonx-data) |
+| GitHub – Content & Material | Access WatsonX.data content and material on GitHub | [link](https://github.ibm.com/watsonx-ee-squad/workshop-watsonx-data) |
+| TechZone Reservations | Reserve TechZone resources for WatsonX.data | [link](https://techzone.ibm.com/my/reservations/create/6633a82ca5ed18001e7c17d3) |
+| WatsonX.Orchestrate | Learn about WatsonX.Orchestrate, an orchestration solution | [link](https://github.ibm.com/watsonx-ee-squad/ibmc-enablement-labs/tree/main/labs/watsonx%20Orchestrate) |
+| Hands On Material & Supporting Documentation | Access hands-on material and supporting documentation for WatsonX.Orchestrate | [link](https://github.ibm.com/watsonx-ee-squad/ibmc-enablement-labs/tree/main/labs/watsonx%20Orchestrate) |
 
 I desire you the best of luck in the 2024 IBMer watsonx Challenge!
