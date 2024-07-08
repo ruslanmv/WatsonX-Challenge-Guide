@@ -52,6 +52,24 @@ In this track, you'll create or combine existing Consulting Assistants to addres
 
 * Refer to the provided references for additional information and guidance.
 * Remember to follow IBM Business Conduct Guidelines and data privacy and security guidelines.
+**What's on the Horizon?**
+
+Choose Your Challenge: On July 10th, will given 11 consulting scenarios tailored to different service lines and business needs. You and your team can opt to tackle a real-world issue you're facing or dive into a pre-defined client situation.
+Join Your Team: 
+
+Once you've selected your scenario, you'll be assigned to a specific IBM Consulting Advantage team through the platform. This team will align with your chosen scenario and geographic location. Remember, each scenario has a designated team – so no need to create your own!
+
+
+Estimated Time Commitment: Depending on the complexity of your solution and the number of AI assistants you utilize, expect to dedicate anywhere from 4 to 24+ hours to this exciting endeavor.
+Get Prepared!
+
+While you await the official start of the challenge on July 10th, take these steps to set your team up for success:
+
+**Brainstorm**: Start collaborating with your team members to generate innovative ideas.
+**Learn**: Complete the required learning modules for Consulting to enhance your skills.
+**Connect**: Join the #ai_for_business_news channel and attend an on-site event to stay informed and engaged.
+**Explore**: Visit the 2024 IBMer watsonx Challenge w3 page for additional resources and FAQs.
+
 
 **References**
 
