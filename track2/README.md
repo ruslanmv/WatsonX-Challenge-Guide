@@ -61,7 +61,6 @@ In this track, you'll create or combine existing Consulting Assistants to addres
 | Choosing a foundation model in watsonx.ai | Guide to selecting the right model | [Link](https://watsonx.ai/) |
 | Supported foundation models available with watsonx.ai | Information on available LLMs | [Link](https://watsonx.ai/) |
 | IBM Business Conduct Guidelines | IBM's business conduct guidelines | [Link](https://www.ibm.com/investor/governance/business-conduct-guidelines.html) |
-| Sample foundation model prompts for common tasks | Example prompts for various tasks | [Link](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-prompt-samples.html?context=wx&audience=wdp
-) |
+| Sample foundation model prompts for common tasks | Example prompts for various tasks | [Link](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-prompt-samples.html?context=wx&audience=wdp) |
 
 By following this guide, you'll be able to effectively leverage IBM Consulting Assistants to address business needs innovatively and creatively.
