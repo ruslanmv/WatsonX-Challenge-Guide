@@ -1,5 +1,3 @@
-
-
 **WatsonX Challenge: Track 5 - watsonx.ai and watsonx.data**
 =====================================================
 
