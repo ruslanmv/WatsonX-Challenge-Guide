@@ -1,5 +1,3 @@
-
-
 **WatsonX Challenge: Track 4 - watsonx.ai**
 =====================================================
 
@@ -7,7 +5,7 @@
 
 **Introduction**
 
-Welcome to the WatsonX Challenge blog repository! In this track, we'll explore how to build a generative AI application to support IBMer productivity using WatsonX.ai. As an IBM employee, you have the opportunity to utilize generative AI technology to improve your productivity by quickly extracting knowledge and insights from vast amounts of data across multiple documents.
+ In this track, we'll explore how to build a generative AI application to support IBMer productivity using WatsonX.ai. As an IBM employee, you have the opportunity to utilize generative AI technology to improve your productivity by quickly extracting knowledge and insights from vast amounts of data across multiple documents.
 
 **Challenge Overview**
 

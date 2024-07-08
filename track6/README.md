@@ -30,7 +30,6 @@ To help you succeed in this challenge, we've compiled a list of valuable resourc
 | Meet WatsonX Orchestrate | Learn about WatsonX Orchestrate and its capabilities | [https://www.ibm.com/products/watsonx-orchestrate](https://www.ibm.com/products/watsonx-orchestrate) |
 | WatsonX Orchestrate Interactive Demo | Explore the interactive demo of WatsonX Orchestrate | [https://watsonx-orchestrate-demo.17f48735.public.multi-containers.ibm.com/](https://watsonx-orchestrate-demo.17f48735.public.multi-containers.ibm.com/) |
 | WatsonX Orchestrate Level 2 | Take the WatsonX Orchestrate Level 2 learning course | [https://yourlearning.ibm.com/activity/PLAN-7C5500E80F26](https://yourlearning.ibm.com/activity/PLAN-7C5500E80F26) |
-| AI Assistants Level 1 | Complete the AI Assistants Level 1 learning course | [https://yourlearning.ibm.com/activity/PLAN-XXXXXXX](https://yourlearning.ibm.com/activity/PLAN-XXXXXXX) |
 | IBM Business Conduct Guidelines | Review the IBM Business Conduct Guidelines | [https://www.ibm.com/employment/usconduct.html](https://www.ibm.com/employment/usconduct.html) |
 | Terms and Conditions | Review the Terms and Conditions, especially Section 13 | [https://www.ibm.com/terms](https://www.ibm.com/terms) |
 
