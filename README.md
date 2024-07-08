@@ -70,7 +70,7 @@ Currently we are  develop some guides of the Tracks:
 | 7            | Modify existing or add new knowledge and skills to improve the accuracy of answers provided by Granite                                                                       | Suggest a use case for embedding Granite and use InstructLab to improve the model. Requires developer experience and specific hardware.                                                                                                                                                                                                                                | InstructLab                                                                                                                    | [Link to InstructLab Tutorial](./track7/README.md)                                                                         |
 
 ## Learning Plan 2024 IBMer watsonx Challenge Education for IBM Consulting
-In particular  IBM Consulting there are some courses that I highly suggest to take before start the Challenge.
+In particular for  IBM Consulting there are some courses that I highly suggest to take before start the Challenge.
 
 
 [![](assets/2024-07-06-10-32-38.png)](https://yourlearning.ibm.com/activity/PLAN-392A3DE753AC)
