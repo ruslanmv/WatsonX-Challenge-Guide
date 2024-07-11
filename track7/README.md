@@ -40,8 +40,7 @@ To complete this challenge, follow these steps:
 For this track, your team of technical IBMers and developers will suggest a use case for embedding the Granite model into your software or hardware product/solution. An example use case might be creating a virtual assistant on your product to help onboard new users.
 
 You will demonstrate that the Granite model is not initially helpful for solving the use case. Then you will use InstructLab to modify and/or generate data towards improving the Granite model for your use case.
-
-**Note:** This track has been designed to encourage a team to work with granite-13b-chat-v2 for their use case and to evaluate the model results. The team will then use the InstructLab CLI to create a skills and/or knowledge taxonomy to improve the model. However, due to the timing of the 2024 IBMer WatsonX Challenge and latest InstructLab software release not aligning, it was not possible to provide access to the upcoming InstructLab back-end in time. We require challenge teams to generate synthetic data using the merlinite-7b-lab-gguf model, and to train and test a base student model and their trained model with either merlinite-7b-lab-gguf model or granite-7b-lab-gguf model.
+We require challenge teams to generate synthetic data using the merlinite-7b-lab-gguf model, and to train and test a base student model and their trained model with either merlinite-7b-lab-gguf model or granite-7b-lab-gguf model.
 
 ### Challenge steps
 1. **Suggest a use case**: Identify a use case for embedding the Granite model into your software or hardware product/solution.
