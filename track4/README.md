@@ -25,6 +25,32 @@ To participate in this track, please note the following:
 * Complete the AI Assistants Level 1 learning course by July 19 to be eligible for prizes
 * Form teams of up to 10 people
 
+
+
+This track provides IBMers with two options:
+
+Extract insights from a provided GitHub issue:
+
+Interact with the IBM granite-13b-chat-v2 foundation model (please do not use any other model for this exercise) to gather comprehensive insights and details about it.
+Teams will use Prompt Lab to streamline their issue-solving workflow, identify blockers quickly, and check actions.
+Solve your own use case:
+
+Use IBM granite-13b-chat-v2 foundation model (please do not use any other model for this exercise) to support boosting your team's productivity.
+Demonstrate how WatsonX.ai can improve productivity by quickly extracting answers and improving workflows.
+Prompt Lab Chat:
+The Prompt Lab chat is designed to make your life easier by providing instant access to the information you need most. With Prompt Lab, you'll be able to quickly extract and understand the critical details from project issues, streamline your workflow, and boost overall project management efficiency. Plus, you'll be able to easily track upcoming actions, identify the owner responsible, and stay on top of planned delivery dates and issues.
+
+Note: Please keep the AI guardrails turned off for the challenge. Employees will not be able to bring their own model or prompt/fine-tune models for this track. These features are out of scope for this challenge.
+
+Options for the Challenge
+Option 1 – Extract insights from GitHub issue using IBM granite-13b-chat-v2
+
+Generate a concise and comprehensive summary about a provided GitHub issue. Use prompt engineering techniques in the Prompt Lab to improve the details in your summary. Refine your prompts and adjust the model parameters to improve the response quality.
+
+Option 2 – Build your own use case using IBM granite-13b-chat-v2
+
+Get creative and build a generative AI application to help improve your team's productivity for an IBM operation of your choice. Each team selecting this option has the flexibility to determine the business problem they want to solve using RAG and can import their own datasets (please see the data collection and privacy note in the resources section below).
+
 **Learning Resources**
 
 To get started, take advantage of the following optional learning resources:

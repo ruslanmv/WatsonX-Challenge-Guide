@@ -1,79 +1,102 @@
-**WatsonX Challenge: Track 2 - IBM Consulting Advantage/Assistants**
+
+**WatsonX Challenge: Track 2 - # IBM WatsonX Challenge: Track 2**
 =====================================================
 
-**Introduction**
-
-In this track, you'll create or combine existing Consulting Assistants to address a client or role-based business need in a new and innovative way. You'll work with real-world scenarios and leverage IBM Consulting Assistants to support and augment consulting project roles and tasks. No coding skills are required, but familiarity with IBM Consulting Assistants will be helpful.
-
-**Getting Started**
-
-1. Access the IBM Consulting Assistants platform and join the "Assistants Education" team.
-2. Accept the team invite and refresh your workspace.
-
-**Key Features of IBM Consulting Assistants**
-
-* Save Prompts: Store previously asked questions for future reference.
-* Check for Biases: Ensure responses are free from harmful or discriminatory content.
-* Check for Sensitive Information: Avoid sharing personal or confidential data.
-* Explore Prompts and Assistants: Access a library of pre-built AI-powered assistants to automate tasks.
-
-**Practicing with IBM Consulting Assistants**
-
-* Try simple prompting tasks, such as checking for sensitive information or biases.
-* Explore prompts and assistants, and edit them to fit your needs.
-* Practice with job-related prompts, such as writing an email or creating a project plan.
-
-**Understanding Large Language Models (LLMs)**
-
-* Learn how LLMs work and their limitations.
-* Practice with IBM Consulting Assistants using different types of prompts, such as zero-shot, one-shot, and few-shot prompting.
-
-**Basics of Prompt Engineering**
-
-* Learn how to mitigate LLMs' limitations using prompt engineering techniques.
-* Practice different types of prompting, such as chain of thought prompting.
-
-**Advanced Features**
-
-* Learn how to save and share prompts, create assistants, and search IBM Consulting public data.
-* Practice customizing search settings and searching for information.
-
-**Searching IBM Consulting Public Data**
-
-* Learn how to access public data sets and customize search settings.
-* Practice searching for information using specific questions.
-
-**Chat with Your Own Document Collections**
-
-* Learn how to create a document collection and chat with your own documents.
-* Practice using the chat process, including retrieval and generation.
-
-**Tips and References**
-
-* Refer to the provided references for additional information and guidance.
-* Remember to follow IBM Business Conduct Guidelines and data privacy and security guidelines.
 
 
-**What's on the Horizon?**
+## Introduction
 
-Choose Your Challenge: On July 10th, will given 11 consulting scenarios tailored to different service lines and business needs. You and your team can opt to tackle a real-world issue you're facing or dive into a pre-defined client situation.
-Join Your Team: 
+Welcome to Track 2 of the IBM WatsonX Challenge. In this track, you will utilize IBM Consulting Assistants to address client or role-based business needs innovatively. This challenge involves real-world scenarios and leverages the capabilities of IBM Consulting Assistants to support and enhance consulting roles and tasks. No coding skills are required, but familiarity with IBM Consulting Assistants will be beneficial.
 
-Once you've selected your scenario, you'll be assigned to a specific IBM Consulting Advantage team through the platform. This team will align with your chosen scenario and geographic location. Remember, each scenario has a designated team – so no need to create your own!
+## Getting Started
 
+1. **Access the IBM Consulting Assistants Platform**: Begin by joining the "Assistants Education" team on the platform.
+2. **Accept the Team Invite**: Ensure you've accepted the invite to your workspace.
+3. **Refresh Your Workspace**: Once you've joined, refresh your workspace to access the latest features and updates.
 
-Estimated Time Commitment: Depending on the complexity of your solution and the number of AI assistants you utilize, expect to dedicate anywhere from 4 to 24+ hours to this exciting endeavor.
-Get Prepared!
+## Key Features of IBM Consulting Assistants
 
-While you await the official start of the challenge on July 10th, take these steps to set your team up for success:
+- **Save Prompts**: Store previously asked questions for future reference.
+- **Check for Biases**: Ensure responses are free from harmful or discriminatory content.
+- **Check for Sensitive Information**: Avoid sharing personal or confidential data.
+- **Explore Prompts and Assistants**: Access a library of pre-built AI-powered assistants to automate tasks.
 
-**Brainstorm**: Start collaborating with your team members to generate innovative ideas.
+## Practicing with IBM Consulting Assistants
 
-**Learn**: Complete the required learning modules for Consulting to enhance your skills.
+- **Simple Prompting Tasks**: Try tasks such as checking for sensitive information or biases.
+- **Explore and Edit Prompts and Assistants**: Modify existing prompts and assistants to suit your needs.
+- **Job-Related Prompts**: Practice prompts relevant to your role, such as writing emails or creating project plans.
 
-**Connect**: Join the #ai_for_business_news channel and attend an on-site event to stay informed and engaged.
+## Understanding Large Language Models (LLMs)
 
-**Explore**: Visit the 2024 IBMer watsonx Challenge w3 page for additional resources and FAQs.
+- **Learn How LLMs Work**: Understand the basics and limitations of LLMs.
+- **Practice Prompting**: Use different types of prompts, including zero-shot, one-shot, and few-shot prompting.
+
+## Basics of Prompt Engineering
+
+- **Mitigate LLMs' Limitations**: Learn techniques to improve LLM responses.
+- **Practice Prompting Techniques**: Use methods like chain-of-thought prompting.
+
+## Advanced Features
+
+- **Save and Share Prompts**: Learn how to save and share your prompts.
+- **Create Assistants**: Build new assistants tailored to specific tasks.
+- **Search IBM Consulting Public Data**: Customize search settings to find relevant information.
+
+## Chat with Your Own Document Collections
+
+- **Create Document Collections**: Learn to create collections and chat with your documents.
+- **Practice Retrieval and Generation**: Use the chat feature for efficient data retrieval and response generation.
+
+## Tips and References
+
+- **References and Guidance**: Refer to provided links for additional information.
+- **IBM Business Conduct Guidelines**: Follow IBM's data privacy and security guidelines.
+
+## What's on the Horizon?
+
+### Choose Your Challenge
+
+On July 10th, you will be presented with 11 consulting scenarios tailored to various service lines and business needs. You and your team can choose a real-world issue or a predefined client situation to address using IBM Consulting Assistants.
+
+### Join Your Team
+
+Once a scenario is selected, you'll join a specific IBM Consulting Advantage team aligned with your scenario and location. Each scenario has a designated team, so you won't need to create one.
+
+### Estimated Time Commitment
+
+Depending on your solution's complexity and the number of AI assistants used, expect to spend between 4 to 24+ hours on this challenge.
+
+## Preparation Steps
+
+1. **Brainstorm**: Collaborate with your team to generate ideas.
+2. **Learn**: Complete required learning modules to enhance your skills.
+3. **Connect**: Join the #ai_for_business_news channel and attend on-site events.
+4. **Explore**: Visit the 2024 IBMer WatsonX Challenge w3 page for resources and FAQs.
+
+## Track Details
+
+- **Open for**: Consulting
+- **Tool**: IBM Consulting Advantage/Assistants
+- **Team Size**: Up to 10 people
+- **Support**: #track_2_consulting_advantage
+
+## Quick Navigation
+
+- **The Challenge**: Select and complete a scenario to improve productivity and service delivery using IBM Consulting Assistants.
+- **Resources**: Access tools, learning materials, and data privacy information.
+- **Submission**: Follow submission instructions to submit your solution by July 19, 10:00 AM (ET).
+
+## The Challenge
+
+### Goal
+
+Select a scenario to enhance productivity and deliver higher-value services efficiently using AI-powered IBM Consulting Assistants.
+
+### Steps Before Starting
+
+1. **Pick Your Scenario**: Choose from 11 scenarios, including a general-purpose one (Scenario 0) if you cannot find a specific match.
+2. **Join an IBM Consulting Advantage Team**: Each scenario has a pre-built team. Join the appropriate team based on your scenario.
 
 
 **References**
